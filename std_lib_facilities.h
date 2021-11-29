@@ -1,3 +1,7 @@
+/*
+ *  UCF COP3330 Fall 2021 Assignment 5 Solution
+ *  Copyright 2021 Julio Lopez
+ */
 #ifndef H112
 #define H112 020215L
 
